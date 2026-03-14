@@ -1,8 +1,8 @@
-![Telegram MT5 Pro Logo](200telegrammt5.png)
+![Telegram MT5 Pro Logo](200telgrammt5.png)
 
 Telegram to MT5 Pro
-by AtlasLabs.uk  ·  Jeanette Abou Khalil
-Version 1.14  ·  For MetaTrader 5
+by AtlasLabs.uk · Jeanette Abou Khalil
+Version 1.14 · For MetaTrader 5
 
 Overview
 Telegram to MT5 Pro is a professional signal copier that automatically copies trading signals from any Telegram channel or group directly to your MetaTrader 5 account — in real time.
