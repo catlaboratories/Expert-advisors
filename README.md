@@ -1,3 +1,5 @@
+![Telegram MT5 Pro Logo](200telegrammt5.png)
+
 Telegram to MT5 Pro
 by AtlasLabs.uk  ·  Jeanette Abou Khalil
 Version 1.14  ·  For MetaTrader 5
